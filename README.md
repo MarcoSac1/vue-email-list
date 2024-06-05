@@ -7,3 +7,6 @@ Attraverso l'apposita API di Boolean, usando axios, con chiamata GET a questo in
 Bonus
 
 Far comparire gli indirizzi email solamente quando sono stati tutti generati.
+
+<!-- workflow -->
+
