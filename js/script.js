@@ -18,7 +18,6 @@ createApp({
                     this.mail.push(response.data.response);
                 });
                 
-                
             }
         },
     },
@@ -29,5 +28,5 @@ createApp({
 }).mount('#app')
 
 
-console.log(mail);
+
 
